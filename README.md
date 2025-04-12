@@ -97,4 +97,4 @@ Prakash Prasad Rai
 
 ## Live Demo 
 
-https://employwise-production.netlify.app/login
+https://employwise-production.netlify.app/
