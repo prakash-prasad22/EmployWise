@@ -92,8 +92,8 @@ const UserList = () => {
     }
   };
 
-  if (loading) return <div>Loading...</div>;
-  if (error) return <div>{error}</div>;
+  if (loading) return <div className="text-center">Loading...</div>;
+  if (error) return <div className="text-center">{error}</div>;
 
   return (
     <section className="bg-gradient-to-b from-[#ECDCFF] to-white mb-20">
